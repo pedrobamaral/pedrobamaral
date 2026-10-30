@@ -20,6 +20,16 @@ Computer Engineering student at the **University of Brasília (UnB)**. As an **A
 
 ---
 
+## 🕹️ Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedrobamaral/pedrobamaral/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pedrobamaral/pedrobamaral/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man eating my contribution graph" src="https://raw.githubusercontent.com/pedrobamaral/pedrobamaral/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
 ## 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-bamaral/) [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:pedrobcamaral@gmail.com)
