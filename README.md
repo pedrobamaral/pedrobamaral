@@ -2,7 +2,7 @@
 
 ### Computer Engineering Student | AI Engineer
 
-Computer Engineering student at the **University of Brasília (UnB)** and **AI Engineer at NeoLabsAI**, where I build production AI systems: **LLM agents, RAG, rule engines and human-in-the-loop workflows**. I value solid back-end engineering, testing and observability, and bring project management and team leadership experience from **CJR**, UnB's Computer Science Junior Enterprise.
+Computer Engineering student at the **University of Brasília (UnB)**. As an **AI Engineer at NeoLabsAI**, I built production AI systems: **LLM agents, RAG, rule engines and human-in-the-loop workflows**. I value solid back-end engineering, testing and observability, and bring project management and team leadership experience from **CJR**, UnB's Computer Science Junior Enterprise.
 
 ---
 
